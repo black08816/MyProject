@@ -1,5 +1,8 @@
----
-title: Jetpack Compose
+# Jetpack Compose
+
+🔗 [「Android 基本概念：使用 Compose」課程  |  Android Developers](https://developer.android.com/courses/android-basics-compose/course?hl=zh-tw)
+
+🔗 [Jetpack Compose  |  Android Developers](https://developer.android.com/courses/pathways/compose?hl=zh-tw)
 
 ---
 
@@ -60,7 +63,7 @@ class MainActivity : AppCompatActivity() {
     }
 }
 ```
-![image](https://hackmd.io/_uploads/SJYRpf_Ogg.png)
+<img width="1666" height="907" alt="image" src="https://github.com/user-attachments/assets/1dc97582-8ed4-402b-a742-146d82d04849" />
 
 ## Jetpack Compose 範例
 ```kotlin=
@@ -95,11 +98,4 @@ fun GreetingScreenPreview() {
     GreetingScreen()
 }
 ```
-![image](https://hackmd.io/_uploads/ryRJyXudle.png)
-
-
----
-
-🔗 [「Android 基本概念：使用 Compose」課程  |  Android Developers](https://developer.android.com/courses/android-basics-compose/course?hl=zh-tw)
-
-🔗 [Jetpack Compose  |  Android Developers](https://developer.android.com/courses/pathways/compose?hl=zh-tw)
+<img width="1775" height="862" alt="image" src="https://github.com/user-attachments/assets/8138cd84-5055-4678-9d37-7d97c8d2e879" />
