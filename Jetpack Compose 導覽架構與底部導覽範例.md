@@ -1,11 +1,6 @@
----
-title: Jetpack Compose 導覽架構與底部導覽範例
-
----
-
 # Jetpack Compose 導覽架構與底部導覽範例
 
-![Screenshot_20250909_105305](https://hackmd.io/_uploads/Sk2VcG6cxg.png)
+<img width="2220" height="1200" alt="Screenshot_20250909_105305" src="https://github.com/user-attachments/assets/b8ea73ab-6732-420d-803c-fb10bf158928" />
 
 ---
 
